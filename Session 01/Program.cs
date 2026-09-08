@@ -5,6 +5,7 @@
         static void Main(string[] args) // starting point
         {
             Console.WriteLine("Hello, DEPI!");
+            Console.WriteLine("New Code!");
         }
     }
 }
